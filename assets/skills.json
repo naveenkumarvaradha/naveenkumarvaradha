@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "PLACEHOLDER NUMBERS - drafted from the stack in your CourierApp repo, not from you. Edit them. Values are 0-100 and purely self-rated; 5-8 axes reads best.",
+  "axes": [
+    { "label": "Java",         "value": 82 },
+    { "label": "Spring Boot",  "value": 78 },
+    { "label": "React",        "value": 68 },
+    { "label": "TypeScript",   "value": 65 },
+    { "label": "PostgreSQL",   "value": 72 },
+    { "label": "System Design","value": 60 },
+    { "label": "DSA",          "value": 60 }
+  ]
+}
