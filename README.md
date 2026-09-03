@@ -15,7 +15,7 @@
 <!-- SOCIALS - fill in the ones you have, drop the rest -->
 <a href="https://www.linkedin.com/in/naveenkumarvaradharaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:naveenkumarvaradha@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://naveenkumarvaradha.github.io/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
 <img src="https://komarev.com/ghpvc/?username=naveenkumarvaradha&style=flat&color=39d353&label=profile+views" alt="profile views">
 
@@ -33,7 +33,7 @@ Hi, I'm **Naveenkumar Varadharaj**. I build backend systems and full-stack apps 
 Spring Boot on the server, React and TypeScript on the client.
 
 - Currently building **[CourierApp](https://github.com/naveenkumarvaradha/CourierApp)** - a courier booking and tracking system
-- Portfolio: **[YOUR_PORTFOLIO](https://YOUR_PORTFOLIO)**
+- Portfolio: **[naveenkumarvaradha.github.io](https://naveenkumarvaradha.github.io/)**
 - Learning **something specific**
 - Fun fact: **something that is actually a fun fact**
 
