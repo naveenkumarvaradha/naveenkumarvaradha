@@ -34,8 +34,8 @@ Spring Boot on the server, React and TypeScript on the client.
 
 - Currently building **[CourierApp](https://github.com/naveenkumarvaradha/CourierApp)** - a courier booking and tracking system
 - Portfolio: **[naveenkumarvaradha.github.io](https://naveenkumarvaradha.github.io/)**
-- Learning **something specific**
-- Fun fact: **something that is actually a fun fact**
+- Learning **cloud infrastructure and system design** - bridging ERP configuration work with the engineering side
+- Fun fact: **I configure ERP workflows by day and write Spring Boot / React apps by night**
 
 <br>
 
