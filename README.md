@@ -16,7 +16,6 @@
 <a href="https://www.linkedin.com/in/naveenkumarvaradharaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:naveenkumarvaradha@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://leetcode.com/u/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
 <img src="https://komarev.com/ghpvc/?username=naveenkumarvaradha&style=flat&color=39d353&label=profile+views" alt="profile views">
 
