@@ -32,7 +32,7 @@ $ cat about.txt
 Hi, I'm **Naveenkumar Varadharaj**. I build backend systems and full-stack apps - Java and
 Spring Boot on the server, React and TypeScript on the client.
 
-- Currently building **[CourierApp](https://github.com/naveenkumarvaradha/CourierApp)** - a courier booking and tracking system
+- Currently building **[CourierApp](https://github.com/naveenkumarvaradha/CourierApp)** - a courier booking and tracking system, and **NaVault** - an offline Android password/document vault (Rust + Java, source private, [APK available](https://github.com/naveenkumarvaradha/naveenkumarvaradha.github.io/releases/tag/navault-v0.1.0))
 - Portfolio: **[naveenkumarvaradha.github.io](https://naveenkumarvaradha.github.io/)**
 - Learning **cloud infrastructure and system design** - bridging ERP configuration work with the engineering side
 - Fun fact: **I configure ERP workflows by day and write Spring Boot / React apps by night**
@@ -147,8 +147,14 @@ Spring Boot on the server, React and TypeScript on the client.
 | project | stack |
 |---|---|
 | **[CourierApp](https://github.com/naveenkumarvaradha/CourierApp)** | `Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `Redis` |
+| **NaVault** — source private, [APK download](https://github.com/naveenkumarvaradha/naveenkumarvaradha.github.io/releases/tag/navault-v0.1.0) | `Rust` `Java` `Android` `AES-256-GCM` `SQLite` |
 
 </sub>
+
+<!-- NaVault has no generated card above: cards.py pulls repos from
+     GET /users/{user}/repos, which the GitHub API only ever returns PUBLIC
+     repos through, token or not. A private repo can't get a real card from
+     that pipeline, hence the plain table row instead of a project.json entry. -->
 
 </div>
 
