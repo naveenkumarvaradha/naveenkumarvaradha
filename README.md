@@ -32,7 +32,7 @@ $ cat about.txt
 Hi, I'm **Naveenkumar Varadharaj**. I build backend systems and full-stack apps - Java and
 Spring Boot on the server, React and TypeScript on the client.
 
-- Currently building **[CourierApp](https://github.com/naveenkumarvaradha/CourierApp)** - a courier booking and tracking system, and **NaVault** - an offline Android password/document vault (Rust + Java, source private, [APK available](https://github.com/naveenkumarvaradha/naveenkumarvaradha.github.io/releases/tag/navault-v0.1.0))
+- Currently building **[CourierApp](https://github.com/naveenkumarvaradha/CourierApp)** - a courier booking and tracking system, and **NaVault** - an offline Android password/document vault (Rust + Java, source private, [APK available — v0.2.0](https://github.com/naveenkumarvaradha/naveenkumarvaradha.github.io/releases/tag/navault-v0.2.0))
 - Portfolio: **[naveenkumarvaradha.github.io](https://naveenkumarvaradha.github.io/)**
 - Learning **cloud infrastructure and system design** - bridging ERP configuration work with the engineering side
 - Fun fact: **I configure ERP workflows by day and write Spring Boot / React apps by night**
@@ -147,7 +147,7 @@ Spring Boot on the server, React and TypeScript on the client.
 | project | stack |
 |---|---|
 | **[CourierApp](https://github.com/naveenkumarvaradha/CourierApp)** | `Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `Redis` |
-| **NaVault** — source private, [APK download](https://github.com/naveenkumarvaradha/naveenkumarvaradha.github.io/releases/tag/navault-v0.1.0) | `Rust` `Java` `Android` `AES-256-GCM` `SQLite` |
+| **NaVault** — source private, [APK download — v0.2.0](https://github.com/naveenkumarvaradha/naveenkumarvaradha.github.io/releases/tag/navault-v0.2.0) | `Rust` `Java` `Android` `AES-256-GCM` `SQLite` |
 
 </sub>
 
