@@ -16,7 +16,6 @@
 <a href="https://www.linkedin.com/in/naveenkumarvaradharaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:naveenkumarvaradha@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://naveenkumarvaradha.github.io/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://naveenkumarvaradha.github.io/resume.html"><img src="https://img.shields.io/badge/Resume-C9A15A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"></a>
 
 <img src="https://komarev.com/ghpvc/?username=naveenkumarvaradha&style=flat&color=39d353&label=profile+views" alt="profile views">
 
@@ -30,13 +29,12 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Naveenkumar Varadharaj**, a **Full-Stack Developer**. I build backend systems and
-full-stack apps - Java and Spring Boot on the server, React and TypeScript on the client -
-and I go deep on security engineering when a project calls for it.
+Hi, I'm **Naveenkumar Varadharaj**. I build backend systems and full-stack apps - Java and
+Spring Boot on the server, React and TypeScript on the client.
 
-- Currently building **[CourierApp](https://github.com/naveenkumarvaradha/CourierApp)** - a courier booking and tracking system, **PDFEditor** - a full-stack PDF editor with digital signatures and OCR (source private), and **NaVault** - an offline Android password/document vault (Rust + Java, source private, [APK available — v0.2.0](https://github.com/naveenkumarvaradha/naveenkumarvaradha.github.io/releases/tag/navault-v0.2.0))
-- Portfolio: **[naveenkumarvaradha.github.io](https://naveenkumarvaradha.github.io/)** · Resume: **[resume.html](https://naveenkumarvaradha.github.io/resume.html)**
-- Also 3+ years of professional experience automating ERP workflows (Datatex, WFX) for a textile manufacturer - bridging business process and system configuration
+- Currently building **[CourierApp](https://github.com/naveenkumarvaradha/CourierApp)** - a courier booking and tracking system, and **NaVault** - an offline Android password/document vault (Rust + Java, source private, [APK available — v0.2.0](https://github.com/naveenkumarvaradha/naveenkumarvaradha.github.io/releases/tag/navault-v0.2.0))
+- Portfolio: **[naveenkumarvaradha.github.io](https://naveenkumarvaradha.github.io/)**
+- Learning **cloud infrastructure and system design** - bridging ERP configuration work with the engineering side
 - Fun fact: **I configure ERP workflows by day and write Spring Boot / React apps by night**
 
 <br>
@@ -45,7 +43,7 @@ and I go deep on security engineering when a project calls for it.
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,ts,rust,androidstudio,postgres,redis,git,github,vscode&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,react,ts,git,github,html,css,vscode&perline=11" alt="tech stack">
 
 </div>
 
@@ -150,11 +148,10 @@ and I go deep on security engineering when a project calls for it.
 |---|---|
 | **[CourierApp](https://github.com/naveenkumarvaradha/CourierApp)** | `Java` `Spring Boot` `React` `TypeScript` `PostgreSQL` `Redis` |
 | **NaVault** — source private, [APK download — v0.2.0](https://github.com/naveenkumarvaradha/naveenkumarvaradha.github.io/releases/tag/navault-v0.2.0) | `Rust` `Java` `Android` `AES-256-GCM` `SQLite` |
-| **PDFEditor** — full-stack, Acrobat-level PDF editor (source private) | `Java` `Spring Boot` `PDFBox` `BouncyCastle` `React` `TypeScript` |
 
 </sub>
 
-<!-- NaVault and PDFEditor have no generated card above: cards.py pulls repos from
+<!-- NaVault has no generated card above: cards.py pulls repos from
      GET /users/{user}/repos, which the GitHub API only ever returns PUBLIC
      repos through, token or not. A private repo can't get a real card from
      that pipeline, hence the plain table row instead of a project.json entry. -->
