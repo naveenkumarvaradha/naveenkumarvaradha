@@ -20,6 +20,7 @@
 <a href="https://www.linkedin.com/in/naveenkumarvaradharaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:naveenkumarvaradha@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://naveenkumarvaradha.github.io/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://naveenkumarvaradha.github.io/assets/Naveenkumar_Varadharaj_Resume.pdf"><img src="https://img.shields.io/badge/Resume-C9A15A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"></a>
 
 <img src="https://komarev.com/ghpvc/?username=naveenkumarvaradha&style=flat&color=39d353&label=profile+views" alt="profile views">
 
@@ -37,7 +38,7 @@ Hi, I'm **Naveenkumar Varadharaj**. I build backend systems and full-stack apps 
 Spring Boot on the server, React and TypeScript on the client.
 
 - Currently building **[CourierApp](https://github.com/naveenkumarvaradha/CourierApp)** - a courier booking and tracking system, and **NaVault** - an offline Android password/document vault (Rust + Java, source private, [APK available — v0.2.0](https://github.com/naveenkumarvaradha/naveenkumarvaradha.github.io/releases/tag/navault-v0.2.0))
-- Portfolio: **[naveenkumarvaradha.github.io](https://naveenkumarvaradha.github.io/)**
+- Portfolio: **[naveenkumarvaradha.github.io](https://naveenkumarvaradha.github.io/)** · Resume: **[PDF](https://naveenkumarvaradha.github.io/assets/Naveenkumar_Varadharaj_Resume.pdf)**
 - Learning **cloud infrastructure and system design** - bridging ERP configuration work with the engineering side
 - Fun fact: **I configure ERP workflows by day and write Spring Boot / React apps by night**
 
