@@ -2,8 +2,8 @@
   "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description. Setting a real description on GitHub too is worth doing - it helps anyone browsing your repo list.",
   "projects": [
     {
-      "repo": "CourierApp",
-      "description": "ShipDesk - internal courier booking and tracking system. Multi-level approval workflows, PDF/Excel exports, barcode shipping labels, and Redis-cached lookups."
+      "repo": "naveenkumarvaradha.github.io",
+      "description": "Personal portfolio site - ERP techno-functional consultant background (Datatex/WFX for apparel & textile supply chain) bridging into software engineering."
     }
   ]
 }
