@@ -4,7 +4,7 @@
      Regenerate with:
        python scripts/dotify.py assets/portrait-source.png -o assets/portrait \
          --cols 100 --equalize --detail 0.5 --color --square --focus 0.5,0.38 \
-         --circle --invert --floor 0.1 --reveal -->
+         --circle --floor 0.1 --reveal -->
 <img src="assets/portrait.svg" width="300" alt="Naveenkumar Varadharaj, rendered as a dot matrix">
 
 <br>
